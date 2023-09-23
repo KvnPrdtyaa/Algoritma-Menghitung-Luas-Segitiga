@@ -1,4 +1,4 @@
-# Algoritma-Menghitung-Luas-Segitiga
+# Algoritma Menghitung Luas Segitiga
 
 1. Masukan nilai Alas
 2. Masukan nilai Tinggi
